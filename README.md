@@ -1,2 +1,2 @@
 # DataScience
-Repositório para salvar projetos e estudos sobre ciência de dados.
+Repositório com roadmap para ciência de dados.
